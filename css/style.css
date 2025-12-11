@@ -170,7 +170,7 @@
     border: 10px solid var(--primary);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 680px) {
     #header-carousel .carousel-item {
         position: relative;
         min-height: 450px;
